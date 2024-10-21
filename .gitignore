@@ -1,0 +1,4 @@
+__pycache__/
+.env
+evaluation_results.json
+evalvenv/

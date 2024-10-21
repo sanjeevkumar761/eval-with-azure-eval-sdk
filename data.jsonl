@@ -1,0 +1,3 @@
+{"query":"What is the capital of France?","context":"France is the country in Europe.","ground_truth":"Paris", "response": "Paris is capital of France"}
+{"query":"What is the capital of USA?","context":"USA is the country in North America.","ground_truth":"Washington DC", "response": "Washington DC is capital of USA"}
+
