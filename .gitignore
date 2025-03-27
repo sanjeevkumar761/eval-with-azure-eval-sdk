@@ -2,3 +2,5 @@ __pycache__/
 .env
 evaluation_results.json
 evalvenv/
+sk-multi-agent-eval/.env
+sk-multi-agent-eval/__pycache__/

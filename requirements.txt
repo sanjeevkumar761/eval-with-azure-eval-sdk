@@ -1,2 +1,5 @@
 azure-ai-evaluation
 python-dotenv
+semantic-kernel==1.25.0
+azure-ai-inference
+
