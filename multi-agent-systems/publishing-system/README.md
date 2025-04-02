@@ -1,6 +1,6 @@
 # MCP client and server with Semantic Kernel plugins  
 
-# How to run it  
+# How to run it   
 1. Start MCP server:  
     ```bash  
     source ../../evalvenv/Scripts/activate  

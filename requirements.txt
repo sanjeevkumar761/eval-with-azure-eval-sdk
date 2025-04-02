@@ -2,4 +2,6 @@ azure-ai-evaluation
 python-dotenv
 semantic-kernel==1.25.0
 azure-ai-inference
+httpx>=0.28.1
+mcp[cli]>=1.2.1
 
