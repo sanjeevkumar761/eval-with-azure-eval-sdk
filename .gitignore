@@ -1,5 +1,5 @@
 __pycache__/
-.env
+**/.env
 evaluation_results.json
 evalvenv/
 sk-multi-agent-eval/.env
