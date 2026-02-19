@@ -1,0 +1,46 @@
+# Financial Metrics Extraction Evaluation Framework
+# Dependencies
+
+# Azure AI Evaluation SDK
+azure-ai-evaluation>=1.0.0
+
+# Azure AI Projects (for persistent agents)
+azure-ai-projects>=1.0.0
+
+# Azure Identity for authentication
+azure-identity>=1.15.0
+
+# Azure OpenAI SDK
+openai>=1.0.0
+
+# Application Insights / OpenTelemetry (for online evaluation)
+azure-monitor-opentelemetry>=1.0.0
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+
+# Azure Service Bus (for SME review queue)
+azure-servicebus>=7.0.0
+
+# Data modeling and validation
+pydantic>=2.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# CLI
+click>=8.0.0
+
+# Async support
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# Utilities
+tqdm>=4.65.0
